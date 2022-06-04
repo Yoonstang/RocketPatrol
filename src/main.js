@@ -3,7 +3,7 @@ Rocket Partrol Mods
 6/2/22
 took about 20hrs so...
 
-I think i did Implement a simultaneous two-player mode (30)
+Implement a simultaneous two-player mode (30) p1: keyleft,keyright and keyp is firing p2: keyA,keyD, and keyF is firing. 
 Create a new spaceship type (w/ new artwork) that's smaller, moves faster, and is worth more points (20)
 Create new artwork for all of the in-game assets (rocket, spaceships, explosion) (20) 
 Use Phaser's particle emitter to create a particle explosion when the rocket hits the spaceship (20)
