@@ -1,3 +1,9 @@
+/* Spencer Kim 
+Rocket Partrol Mods
+6/2/22
+took about 17hrs so...
+*/
+
 let config = {
     type: Phaser.CANVAS,
     width: 640,
@@ -12,4 +18,4 @@ let borderUISize = game.config.height / 15;
 let borderPadding = borderUISize / 3;
 
 // reserve keyboard vars
-let keyF, keyR, keyLEFT, keyRIGHT;
+let keyF, keyR, keyLEFT, keyRIGHT, keyA, keyD, keyP;
